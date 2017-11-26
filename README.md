@@ -2,7 +2,7 @@
 Trik Memasang Iklan Pada Halaman Posting Wordpress Self Hosting
 # Cara Memasang
 - Buka file single.php
-- Cari Kode : # <?php the_content(); ?>
+- Cari Kode : <a href="#"><?php the_content(); ?></a>
 - Hapus Kode : # <?php the_content(); ?>
 - Ganti Dengan : <a href="https://github.com/dirmanto/Script-Iklan-Adsense-Tanpa-Plugin/blob/master/single.php">single.php</a>
 - Simpan (Save)
