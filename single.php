@@ -1,5 +1,5 @@
 <div style="float:left; margin:0 20px 10px 0;">
-TEMPATKAN UNIT IKLAN 300X250 DISINI
+IKLAN 300X250 DISINI
 </div>
 <?php
 $where =0;
